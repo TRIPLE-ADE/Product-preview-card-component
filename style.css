@@ -55,7 +55,7 @@ header {
 
 h1 {
     font-family: 'Fraunces', serif;
-    font-size: 30px;
+    font-size: 33px;
     line-height: 1;
     text-align: left;
     color: hsl(212, 21%, 14%);
@@ -125,6 +125,7 @@ button:hover {
     }
 
     h1{
+        font-size: 30px;
         margin:10px 0px 5px 0px;
     }
 
